@@ -1,0 +1,7 @@
+Mirror in progress since Sat, 14 Aug 2021 08:03:29 .. please wait!
+winhttrack https://www.chime.com -O "/home/kali/chime/chime" -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=18827
+UID=0
+GID=0
+START=1628942609
